@@ -1,0 +1,30 @@
+_repo: Zen-Buddhismand-Its-Relation-to-Art_43273
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43273-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Waley, Arthur
+    alias: Schloss, Arthur David
+    birthdate: 1889
+    deathdate: 1966
+    gutenberg_agent_id: '6752'
+    url: http://www.gutenberg.org/2009/agents/6752
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Waley
+description: ''
+gutenberg_issued: '2013-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43273'
+  lccn: '48037773'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Zen Buddhism'
+- !lcsh 'Buddhist art'
+title: Zen Buddhism, and Its Relation to Art
+url: http://www.gutenberg.org/ebooks/43273
