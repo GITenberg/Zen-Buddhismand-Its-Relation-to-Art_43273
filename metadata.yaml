@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6752
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Waley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43273#Zen-Buddhismand-Its-Relation-to-Art
 gutenberg_issued: '2013-07-21'
 gutenberg_type: Text
 identifiers:
